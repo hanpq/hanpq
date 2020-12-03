@@ -43,6 +43,8 @@
 
 </details>
 
+---
+
 Thanks to [Thanks to codeSTACKr for tips regarding github profile file setup][codeSTACKr]
 
 [website]: https://getps.dev
