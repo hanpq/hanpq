@@ -40,11 +40,10 @@
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="Hanpq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hanpq&show_icons=true&hide_border=true" />
-
+<br/>
 </details>
 
 <br/>
----
 
 Thanks to [Thanks to codeSTACKr for tips regarding github profile file setup][codeSTACKr]
 
