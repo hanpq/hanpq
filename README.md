@@ -45,13 +45,13 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img alt="Hanpq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hanpq&show_icons=true&hide_border=true&text_color=c97849&bg_color=485b4d" />
+  <img alt="Hanpq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hanpq&show_icons=true&hide_border=true&text_color=c97849&bg_color=18191a" />
 
 </details>
 
 <details>
     <summary>Most used languages in repos</summary>
-    <img alt="Most used languages in repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanpq&layout=compact" />
+    <img alt="Most used languages in repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanpq&layout=compact&text_color=c97849&bg_color=18191a" />
 </details>
 
 ### Other
