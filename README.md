@@ -45,7 +45,8 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Hanpq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hanpq&show_icons=true&hide_border=true" />
+  <img alt="Hanpq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hanpq&show_icons=true&hide_border=true" />
+
 </details>
 
 <br/>
