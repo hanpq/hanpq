@@ -10,11 +10,11 @@
 ### Recent blog posts on getps.dev
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing PS.Tools.Queue](https://getps.dev/blog/ps-tools-queue-module)
 - [Pester, mock remote or unavailable cmdlets](https://getps.dev/blog/pester-mock-remote-cmdlets)
 - [Convert-DateStringToDateTimeObject](https://getps.dev/blog/convert-datestringtodatetimeobject)
 - [Get-WeekInfo](https://getps.dev/blog/get-weekinfo)
 - [Exchange RecipientTypes](https://getps.dev/blog/exchange-recipienttypes)
-- [Setup Active Directory One-way Trust With Selective Authentication](https://getps.dev/blog/setup-active-directory-one-way-trust-with-selective-authentication)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][blog]
