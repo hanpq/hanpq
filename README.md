@@ -35,8 +35,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#955](https://github.com/OneDrive/onedrive-api-docs/issues/955) in [OneDrive/onedrive-api-docs](https://github.com/OneDrive/onedrive-api-docs)
-2. 🗣 Commented on [#1](https://github.com/hanpq/hanpq/issues/1) in [hanpq/hanpq](https://github.com/hanpq/hanpq)
+1. ❗️ Opened issue [#974](https://github.com/PKief/vscode-material-icon-theme/issues/974) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+2. 🗣 Commented on [#955](https://github.com/OneDrive/onedrive-api-docs/issues/955) in [OneDrive/onedrive-api-docs](https://github.com/OneDrive/onedrive-api-docs)
 3. ❗️ Closed issue [#1](https://github.com/hanpq/hanpq/issues/1) in [hanpq/hanpq](https://github.com/hanpq/hanpq)
 <!--END_SECTION:activity-->
 
