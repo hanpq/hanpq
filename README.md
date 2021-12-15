@@ -10,11 +10,11 @@
 ### Recent blog posts on getps.dev
 
 <!-- BLOG-POST-LIST:START -->
+- [Unable to write certain characters in Windows Terminal](https://getps.dev/blog/windows-terminal-unable-to-write-certain-symbols)
 - [Introducing pstools.queue](https://getps.dev/blog/ps-tools-queue-module)
 - [Pester, mock remote or unavailable cmdlets](https://getps.dev/blog/pester-mock-remote-cmdlets)
 - [Convert-DateStringToDateTimeObject](https://getps.dev/blog/convert-datestringtodatetimeobject)
 - [Get-WeekInfo](https://getps.dev/blog/get-weekinfo)
-- [Exchange RecipientTypes](https://getps.dev/blog/exchange-recipienttypes)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][blog]
