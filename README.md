@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/hanpq/hanpq/issues/2) in [hanpq/hanpq](https://github.com/hanpq/hanpq)
-2. ❗️ Opened issue [#2](https://github.com/hanpq/hanpq/issues/2) in [hanpq/hanpq](https://github.com/hanpq/hanpq)
-3. ❗️ Closed issue [#1](https://github.com/hanpq/hanpq/issues/1) in [hanpq/hanpq](https://github.com/hanpq/hanpq)
+1. 💪 Opened PR [#1](https://github.com/hanpq/PSDataSet/pull/1) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
+2. 🎉 Merged PR [#1](https://github.com/hanpq/PSSort/pull/1) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
+3. 💪 Opened PR [#2](https://github.com/hanpq/PSDaikin/pull/2) in [hanpq/PSDaikin](https://github.com/hanpq/PSDaikin)
 <!--END_SECTION:activity-->
 
 </details>
