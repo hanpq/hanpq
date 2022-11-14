@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/hanpq/PSDataSet/pull/2) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
-2. 💪 Opened PR [#2](https://github.com/hanpq/PSDataSet/pull/2) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
-3. 🎉 Merged PR [#1](https://github.com/hanpq/PSDataSet/pull/1) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
+1. 💪 Opened PR [#3](https://github.com/hanpq/PSSort/pull/3) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
+2. 🎉 Merged PR [#2](https://github.com/hanpq/PSSort/pull/2) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
+3. 💪 Opened PR [#2](https://github.com/hanpq/PSSort/pull/2) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
 <!--END_SECTION:activity-->
 
 </details>
