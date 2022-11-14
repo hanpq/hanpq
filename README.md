@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/hanpq/PSScriptInfo/pull/1) in [hanpq/PSScriptInfo](https://github.com/hanpq/PSScriptInfo)
-2. 💪 Opened PR [#1](https://github.com/hanpq/PSScriptInfo/pull/1) in [hanpq/PSScriptInfo](https://github.com/hanpq/PSScriptInfo)
-3. 💪 Opened PR [#3](https://github.com/hanpq/PSSort/pull/3) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
+1. 🎉 Merged PR [#2](https://github.com/hanpq/PSDaikin/pull/2) in [hanpq/PSDaikin](https://github.com/hanpq/PSDaikin)
+2. 🎉 Merged PR [#1](https://github.com/hanpq/PSQueue/pull/1) in [hanpq/PSQueue](https://github.com/hanpq/PSQueue)
+3. 💪 Opened PR [#1](https://github.com/hanpq/PSQueue/pull/1) in [hanpq/PSQueue](https://github.com/hanpq/PSQueue)
 <!--END_SECTION:activity-->
 
 </details>
