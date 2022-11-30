@@ -10,11 +10,11 @@
 ### Recent blog posts on getps.dev
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleanup GitHub Artifacts](https://getps.dev/blog/cleanup-github-artifacts)
 - [Announcing PSPortainer Powershell Module](https://getps.dev/blog/announcing-psportainer)
 - [Setup Azure App for Exchange Online unattended access for scripts](https://getps.dev/blog/setup-azure-app-for-exchange-online)
 - [Unable to write certain characters in Windows Terminal](https://getps.dev/blog/windows-terminal-unable-to-write-certain-symbols)
 - [Introducing pstools.queue](https://getps.dev/blog/ps-tools-queue-module)
-- [Pester, mock remote or unavailable cmdlets](https://getps.dev/blog/pester-mock-remote-cmdlets)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][blog]
