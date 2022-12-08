@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/hanpq/PSPortainer/pull/6) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
-2. 💪 Opened PR [#6](https://github.com/hanpq/PSPortainer/pull/6) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
-3. 🎉 Merged PR [#5](https://github.com/hanpq/PSPortainer/pull/5) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
+1. 🎉 Merged PR [#7](https://github.com/hanpq/PSPortainer/pull/7) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
+2. 💪 Opened PR [#7](https://github.com/hanpq/PSPortainer/pull/7) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
+3. 🎉 Merged PR [#6](https://github.com/hanpq/PSPortainer/pull/6) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
 <!--END_SECTION:activity-->
 
 </details>
