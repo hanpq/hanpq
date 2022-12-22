@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/hanpq/PSDev/pull/1) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-2. 💪 Opened PR [#1](https://github.com/hanpq/PSDev/pull/1) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-3. ❌ Reopened PR [#128](https://github.com/EsOsO/Logging/pull/128) in [EsOsO/Logging](https://github.com/EsOsO/Logging)
+1. 🎉 Merged PR [#2](https://github.com/hanpq/PSDev/pull/2) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+2. 💪 Opened PR [#2](https://github.com/hanpq/PSDev/pull/2) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+3. 🎉 Merged PR [#1](https://github.com/hanpq/PSDev/pull/1) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
 <!--END_SECTION:activity-->
 
 </details>
