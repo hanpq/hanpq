@@ -11,6 +11,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in getps.dev posts
-        uses: gautamkrishnar/blog-post-workflow@vl
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://getps.dev/blog/rss.xml"
