@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/hanpq/PSPortainer/pull/11) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
-2. 💪 Opened PR [#11](https://github.com/hanpq/PSPortainer/pull/11) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
-3. 🎉 Merged PR [#6](https://github.com/hanpq/PSDev/pull/6) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+1. 🗣 Commented on [#1093](https://github.com/PowerShell/PowerShellGet/issues/1093) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
+2. 🎉 Merged PR [#11](https://github.com/hanpq/PSPortainer/pull/11) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
+3. 💪 Opened PR [#11](https://github.com/hanpq/PSPortainer/pull/11) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
 <!--END_SECTION:activity-->
 
 </details>
