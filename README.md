@@ -37,7 +37,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1093](https://github.com/PowerShell/PowerShellGet/issues/1093) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
 2. 🗣 Commented on [#1093](https://github.com/PowerShell/PowerShellGet/issues/1093) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
-3. 💪 Opened PR [#11](https://github.com/hanpq/PSPortainer/pull/11) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
+3. 🚀 Published release [v1.4.0](https://github.com/v1.4.0) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
 <!--END_SECTION:activity-->
 
 </details>
