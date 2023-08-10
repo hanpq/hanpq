@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1093](https://github.com/PowerShell/PowerShellGet/issues/1093#issuecomment-1560533584) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
-2. 🗣 Commented on [#1093](https://github.com/PowerShell/PowerShellGet/issues/1093#issuecomment-1545694140) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
-3. 🚀 Published release [v1.4.0](https://github.com/v1.4.0) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+1. 🗣 Commented on [#55](https://github.com/custom-components/zaptec/issues/55#issuecomment-1672666648) in [custom-components/zaptec](https://github.com/custom-components/zaptec)
+2. 🗣 Commented on [#55](https://github.com/custom-components/zaptec/issues/55#issuecomment-1672665028) in [custom-components/zaptec](https://github.com/custom-components/zaptec)
+3. 🗣 Commented on [#1093](https://github.com/PowerShell/PowerShellGet/issues/1093#issuecomment-1560533584) in [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet)
 <!--END_SECTION:activity-->
 
 </details>
