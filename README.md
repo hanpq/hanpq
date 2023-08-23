@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/hanpq/PSDev/pull/7) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-2. 💪 Opened PR [#7](https://github.com/hanpq/PSDev/pull/7) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-3. 🗣 Commented on [#55](https://github.com/custom-components/zaptec/issues/55#issuecomment-1673031888) in [custom-components/zaptec](https://github.com/custom-components/zaptec)
+1. 🚀 Published release [v1.4.1](https://github.com/hanpq/PSDev/releases/tag/v1.4.1) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+2. 🎉 Merged PR [#8](https://github.com/hanpq/PSDev/pull/8) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+3. 💪 Opened PR [#8](https://github.com/hanpq/PSDev/pull/8) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
 <!--END_SECTION:activity-->
 
 </details>
