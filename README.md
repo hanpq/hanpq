@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.2](https://github.com/hanpq/PSDev/releases/tag/v1.4.2) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-2. 🎉 Merged PR [#9](https://github.com/hanpq/PSDev/pull/9) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-3. 💪 Opened PR [#9](https://github.com/hanpq/PSDev/pull/9) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+1. 🚀 Published release [v3.0.0-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v3.0.0-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🚀 Published release [v1.4.2](https://github.com/hanpq/PSDev/releases/tag/v1.4.2) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+3. 🎉 Merged PR [#9](https://github.com/hanpq/PSDev/pull/9) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
 <!--END_SECTION:activity-->
 
 </details>
