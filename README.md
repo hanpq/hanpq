@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.0.1](https://github.com/hanpq/PSLogs/releases/tag/v5.0.1) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
-2. 🚀 Published release [v3.0.0-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v3.0.0-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
-3. 🚀 Published release [v1.4.2](https://github.com/hanpq/PSDev/releases/tag/v1.4.2) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+1. 🚀 Published release [v5.0.2-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v5.0.2-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🚀 Published release [v5.0.1](https://github.com/hanpq/PSLogs/releases/tag/v5.0.1) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+3. 🚀 Published release [v3.0.0-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v3.0.0-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 <!--END_SECTION:activity-->
 
 </details>
