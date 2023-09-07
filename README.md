@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.12.1-preview0001](https://github.com/hanpq/PSDaikin/releases/tag/v1.12.1-preview0001) in [hanpq/PSDaikin](https://github.com/hanpq/PSDaikin)
-2. 🚀 Published release [v5.0.2-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v5.0.2-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
-3. 🚀 Published release [v5.0.1](https://github.com/hanpq/PSLogs/releases/tag/v5.0.1) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+1. 🚀 Published release [v5.0.2](https://github.com/hanpq/PSLogs/releases/tag/v5.0.2) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🚀 Published release [v1.12.1-preview0001](https://github.com/hanpq/PSDaikin/releases/tag/v1.12.1-preview0001) in [hanpq/PSDaikin](https://github.com/hanpq/PSDaikin)
+3. 🚀 Published release [v5.0.2-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v5.0.2-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 <!--END_SECTION:activity-->
 
 </details>
