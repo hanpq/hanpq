@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.1-preview0001](https://github.com/hanpq/PSQueue/releases/tag/v1.5.1-preview0001) in [hanpq/PSQueue](https://github.com/hanpq/PSQueue)
-2. 🚀 Published release [v1.4.1-preview0001](https://github.com/hanpq/PSScriptInfo/releases/tag/v1.4.1-preview0001) in [hanpq/PSScriptInfo](https://github.com/hanpq/PSScriptInfo)
-3. 🚀 Published release [v1.14.1-preview0001](https://github.com/hanpq/PSSort/releases/tag/v1.14.1-preview0001) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
+1. 🚀 Published release [v5.0.4-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v5.0.4-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🚀 Published release [v1.5.1-preview0001](https://github.com/hanpq/PSQueue/releases/tag/v1.5.1-preview0001) in [hanpq/PSQueue](https://github.com/hanpq/PSQueue)
+3. 🚀 Published release [v1.4.1-preview0001](https://github.com/hanpq/PSScriptInfo/releases/tag/v1.4.1-preview0001) in [hanpq/PSScriptInfo](https://github.com/hanpq/PSScriptInfo)
 <!--END_SECTION:activity-->
 
 </details>
