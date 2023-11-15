@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#725](https://github.com/alandtse/tesla/issues/725) in [alandtse/tesla](https://github.com/alandtse/tesla)
-2. 🚀 Published release [v5.1.0](https://github.com/hanpq/PSLogs/releases/tag/v5.1.0) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
-3. 🎉 Merged PR [#2](https://github.com/hanpq/PSLogs/pull/2) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+1. 🚀 Published release [v0.2.0-preview0003](https://github.com/hanpq/PSMQTT/releases/tag/v0.2.0-preview0003) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+2. ❗ Opened issue [#725](https://github.com/alandtse/tesla/issues/725) in [alandtse/tesla](https://github.com/alandtse/tesla)
+3. 🚀 Published release [v5.1.0](https://github.com/hanpq/PSLogs/releases/tag/v5.1.0) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 <!--END_SECTION:activity-->
 
 </details>
