@@ -10,11 +10,11 @@
 ### Recent blog posts on getps.dev
 
 <!-- BLOG-POST-LIST:START -->
+- [Send and monitor MQTT messages with powershell](https://getps.dev/blog/new-module-psmqtt)
 - [Find Office 365 URL and IP](https://getps.dev/blog/find-office365-url-and-ip)
 - [Cleanup GitHub Artifacts](https://getps.dev/blog/cleanup-github-artifacts)
 - [Announcing PSPortainer Powershell Module](https://getps.dev/blog/announcing-psportainer)
 - [Setup Azure App for Exchange Online unattended access for scripts](https://getps.dev/blog/setup-azure-app-for-exchange-online)
-- [Unable to write certain characters in Windows Terminal](https://getps.dev/blog/windows-terminal-unable-to-write-certain-symbols)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][blog]
