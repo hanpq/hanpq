@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0-preview0004](https://github.com/hanpq/PSMQTT/releases/tag/v0.2.0-preview0004) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-2. 🚀 Published release [v0.2.0-preview0003](https://github.com/hanpq/PSMQTT/releases/tag/v0.2.0-preview0003) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-3. ❗ Opened issue [#725](https://github.com/alandtse/tesla/issues/725) in [alandtse/tesla](https://github.com/alandtse/tesla)
+1. 🚀 Published release [v0.2.0-preview0005](https://github.com/hanpq/PSMQTT/releases/tag/v0.2.0-preview0005) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+2. 🚀 Published release [v0.2.0-preview0004](https://github.com/hanpq/PSMQTT/releases/tag/v0.2.0-preview0004) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+3. 🚀 Published release [v0.2.0-preview0003](https://github.com/hanpq/PSMQTT/releases/tag/v0.2.0-preview0003) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
 <!--END_SECTION:activity-->
 
 </details>
