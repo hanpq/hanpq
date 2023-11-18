@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.5-preview0002](https://github.com/hanpq/PSPortainer/releases/tag/v0.4.5-preview0002) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
-2. 🚀 Published release [v1.0.0](https://github.com/hanpq/PSMQTT/releases/tag/v1.0.0) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-3. 🚀 Published release [v0.2.0-preview0006](https://github.com/hanpq/PSMQTT/releases/tag/v0.2.0-preview0006) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+1. 🚀 Published release [v0.4.5](https://github.com/hanpq/PSPortainer/releases/tag/v0.4.5) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
+2. 🚀 Published release [v0.4.5-preview0002](https://github.com/hanpq/PSPortainer/releases/tag/v0.4.5-preview0002) in [hanpq/PSPortainer](https://github.com/hanpq/PSPortainer)
+3. 🚀 Published release [v1.0.0](https://github.com/hanpq/PSMQTT/releases/tag/v1.0.0) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
 <!--END_SECTION:activity-->
 
 </details>
