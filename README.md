@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/hanpq/PSMQTT/releases/tag/v1.0.1) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-2. 💪 Opened PR [#1](https://github.com/hanpq/PSMQTT/pull/1) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-3. 🚀 Published release [v1.0.1-preview0001](https://github.com/hanpq/PSMQTT/releases/tag/v1.0.1-preview0001) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+1. 🚀 Published release [v5.1.1-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v5.1.1-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🚀 Published release [v1.0.1](https://github.com/hanpq/PSMQTT/releases/tag/v1.0.1) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+3. 💪 Opened PR [#1](https://github.com/hanpq/PSMQTT/pull/1) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
 <!--END_SECTION:activity-->
 
 </details>
