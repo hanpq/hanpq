@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/hanpq/getps.dev/pull/17) in [hanpq/getps.dev](https://github.com/hanpq/getps.dev)
-2. 🚀 Published release [v0.2.0-preview0002](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0002) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. ❗ Opened issue [#1](https://github.com/hanpq/PSImmich/issues/1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. ❌ Closed PR [#17](https://github.com/hanpq/getps.dev/pull/17) in [hanpq/getps.dev](https://github.com/hanpq/getps.dev)
+2. 💪 Opened PR [#17](https://github.com/hanpq/getps.dev/pull/17) in [hanpq/getps.dev](https://github.com/hanpq/getps.dev)
+3. 🚀 Published release [v0.2.0-preview0002](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0002) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
