@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0-preview0019](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0019) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 🚀 Published release [v0.2.0-preview0018](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0018) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. 🚀 Published release [v0.2.0-preview0017](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0017) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🚀 Published release [v0.2.0-preview0020](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0020) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 🚀 Published release [v0.2.0-preview0019](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0019) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 🚀 Published release [v0.2.0-preview0018](https://github.com/hanpq/PSImmich/releases/tag/v0.2.0-preview0018) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
