@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#128](https://github.com/RootITUp/Logging/pull/128) in [RootITUp/Logging](https://github.com/RootITUp/Logging)
-2. 🚀 Published release [v1.4.3](https://github.com/hanpq/PSDev/releases/tag/v1.4.3) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-3. 🎉 Merged PR [#10](https://github.com/hanpq/PSDev/pull/10) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+1. 🚀 Published release [v1.4.4-preview0001](https://github.com/hanpq/PSDev/releases/tag/v1.4.4-preview0001) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+2. ❌ Closed PR [#128](https://github.com/RootITUp/Logging/pull/128) in [RootITUp/Logging](https://github.com/RootITUp/Logging)
+3. 🚀 Published release [v1.4.3](https://github.com/hanpq/PSDev/releases/tag/v1.4.3) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
 <!--END_SECTION:activity-->
 
 </details>
