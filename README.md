@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.4-preview0001](https://github.com/hanpq/PSDev/releases/tag/v1.4.4-preview0001) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-2. ❌ Closed PR [#128](https://github.com/RootITUp/Logging/pull/128) in [RootITUp/Logging](https://github.com/RootITUp/Logging)
-3. 🚀 Published release [v1.4.3](https://github.com/hanpq/PSDev/releases/tag/v1.4.3) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+1. 🚀 Published release [v1.0.1-preview0001](https://github.com/hanpq/PSImmich/releases/tag/v1.0.1-preview0001) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 🚀 Published release [v1.0.2-preview0001](https://github.com/hanpq/PSMQTT/releases/tag/v1.0.2-preview0001) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+3. 🚀 Published release [v1.5.0](https://github.com/hanpq/PSDev/releases/tag/v1.5.0) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
 <!--END_SECTION:activity-->
 
 </details>
