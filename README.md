@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/hanpq/PSMQTT/issues/2#issuecomment-2023829359) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-2. 🔒 Closed issue [#2](https://github.com/hanpq/PSMQTT/issues/2) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-3. 🎉 Merged PR [#3](https://github.com/hanpq/PSMQTT/pull/3) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+1. 💪 Opened PR [#8851](https://github.com/immich-app/immich/pull/8851) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#2](https://github.com/hanpq/PSMQTT/issues/2#issuecomment-2023829359) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+3. 🔒 Closed issue [#2](https://github.com/hanpq/PSMQTT/issues/2) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
 <!--END_SECTION:activity-->
 
 </details>
