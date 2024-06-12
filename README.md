@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0-preview0001](https://github.com/hanpq/PSImmich/releases/tag/v1.2.0-preview0001) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 🗣 Commented on [#11583](https://github.com/jellyfin/jellyfin/issues/11583#issuecomment-2107601270) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-3. 💪 Opened PR [#8851](https://github.com/immich-app/immich/pull/8851) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🚀 Published release [v1.106.0](https://github.com/hanpq/PSImmich/releases/tag/v1.106.0) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 🎉 Merged PR [#3](https://github.com/hanpq/PSImmich/pull/3) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 🎉 Merged PR [#3](https://github.com/hanpq/PSImmich/pull/3) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
