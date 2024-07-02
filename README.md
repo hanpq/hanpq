@@ -35,8 +35,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.106.1](https://github.com/hanpq/PSImmich/releases/tag/v1.106.1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 🎉 Merged PR [#4](https://github.com/hanpq/PSImmich/pull/4) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🚀 Published release [v1.106.2-preview0001](https://github.com/hanpq/PSImmich/releases/tag/v1.106.2-preview0001) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 🚀 Published release [v1.106.1](https://github.com/hanpq/PSImmich/releases/tag/v1.106.1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 3. 🎉 Merged PR [#4](https://github.com/hanpq/PSImmich/pull/4) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
