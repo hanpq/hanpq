@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0-tags](https://github.com/hanpq/PSImmich/releases/tag/v2.0.0-tags) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 🎉 Merged PR [#6](https://github.com/hanpq/PSImmich/pull/6) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. 🎉 Merged PR [#6](https://github.com/hanpq/PSImmich/pull/6) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🎉 Merged PR [#12](https://github.com/hanpq/PSDev/pull/12) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+2. 🎉 Merged PR [#12](https://github.com/hanpq/PSDev/pull/12) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
+3. 🚀 Published release [v1.111.1](https://github.com/hanpq/PSImmich/releases/tag/v1.111.1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
