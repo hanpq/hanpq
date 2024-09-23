@@ -10,11 +10,11 @@
 ### Recent blog posts on getps.dev
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify iMessage File Extraction with iMessageExporter](https://getps.dev/blog/imessageexporter)
-- [Enable exchange delegates to schedule teams meetings](https://getps.dev/blog/enable-delegates-to-schedule-teams-meetings)
-- [Work with the Immich API from Powershell](https://getps.dev/blog/new-module-psimmich)
-- [Send and monitor MQTT messages with powershell](https://getps.dev/blog/new-module-psmqtt)
-- [Find Office 365 URL and IP](https://getps.dev/blog/find-office365-url-and-ip)
+- [Understanding How BIMI Enhances Email Trust and Brand Visibility](https://getps.dev/blog/email-security-bimi)
+- [Understanding How DANE Enhances TLS Security with DNSSEC](https://getps.dev/blog/email-security-dane)
+- [Understanding How TLS-RPT Enhances Email Security Through Reporting](https://getps.dev/blog/email-security-tls-rpt)
+- [Understanding How MTA-STS Enhances Email Security](https://getps.dev/blog/email-security-mta-sts)
+- [Understanding How DMARC Enhances Email Security Through Authentication and Reporting](https://getps.dev/blog/email-security-dmarc)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][blog]
