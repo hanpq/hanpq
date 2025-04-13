@@ -35,8 +35,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.2.4](https://github.com/hanpq/PSLogs/releases/tag/v5.2.4) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
-2. 🎉 Merged PR [#10](https://github.com/hanpq/PSLogs/pull/10) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+1. 🚀 Published release [v5.3.0-preview0001](https://github.com/hanpq/PSLogs/releases/tag/v5.3.0-preview0001) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🚀 Published release [v5.2.4](https://github.com/hanpq/PSLogs/releases/tag/v5.2.4) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 3. 🎉 Merged PR [#10](https://github.com/hanpq/PSLogs/pull/10) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 <!--END_SECTION:activity-->
 
