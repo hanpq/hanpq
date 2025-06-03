@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0-preview0001](https://github.com/hanpq/PSMQTT/releases/tag/v1.2.0-preview0001) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-2. 🗣 Commented on [#5](https://github.com/hanpq/PSMQTT/issues/5#issuecomment-2933731515) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-3. 🚀 Published release [v5.5.2](https://github.com/hanpq/PSLogs/releases/tag/v5.5.2) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+1. 🎉 Merged PR [#6](https://github.com/hanpq/PSMQTT/pull/6) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+2. 🗣 Commented on [#4](https://github.com/hanpq/PSMQTT/issues/4#issuecomment-2936227682) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+3. 🔒 Closed issue [#4](https://github.com/hanpq/PSMQTT/issues/4) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
 <!--END_SECTION:activity-->
 
 </details>
