@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23861](https://github.com/immich-app/immich/issues/23861) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🚀 Published release [v2.2.1](https://github.com/hanpq/PSImmich/releases/tag/v2.2.1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. 💪 Opened PR [#16](undefined) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🚀 Published release [v2.2.4](https://github.com/hanpq/PSImmich/releases/tag/v2.2.4) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 💪 Opened PR [#18](undefined) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 🚀 Published release [v2.3.0-tags](https://github.com/hanpq/PSImmich/releases/tag/v2.3.0-tags) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
