@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/hanpq/PSImmich/issues/1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 🗣 Commented on [#1](https://github.com/hanpq/PSImmich/issues/1#issuecomment-3560470723) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. 🚀 Published release [v5.6.1](https://github.com/hanpq/PSLogs/releases/tag/v5.6.1) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+1. 🚀 Published release [v2.3.0-preview0006](https://github.com/hanpq/PSImmich/releases/tag/v2.3.0-preview0006) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 🔒 Closed issue [#1](https://github.com/hanpq/PSImmich/issues/1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 🗣 Commented on [#1](https://github.com/hanpq/PSImmich/issues/1#issuecomment-3560470723) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
