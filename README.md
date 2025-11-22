@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.0-preview0008](https://github.com/hanpq/PSImmich/releases/tag/v2.3.0-preview0008) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 🚀 Published release [v2.3.0-preview0007](https://github.com/hanpq/PSImmich/releases/tag/v2.3.0-preview0007) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. 🚀 Published release [v2.3.0-preview0006](https://github.com/hanpq/PSImmich/releases/tag/v2.3.0-preview0006) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🚀 Published release [v2.3.1](https://github.com/hanpq/PSImmich/releases/tag/v2.3.1) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 💪 Opened PR [#20](undefined) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 🚀 Published release [v2.3.0-preview0009](https://github.com/hanpq/PSImmich/releases/tag/v2.3.0-preview0009) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
