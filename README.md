@@ -36,8 +36,8 @@
   
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v2.4.0-tags](https://github.com/hanpq/PSImmich/releases/tag/v2.4.0-tags) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 💪 Opened PR [#21](undefined) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. 🚀 Published release [v2.4.0-preview0001](https://github.com/hanpq/PSImmich/releases/tag/v2.4.0-preview0001) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. ❌ Merged PR [#21](undefined) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 💪 Opened PR [#21](undefined) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 </details>
