@@ -35,8 +35,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/hanpq/PSImmich/pull/22) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 💪 Opened PR [#22](https://github.com/hanpq/PSImmich/pull/22) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🗣 Commented on [#20](https://github.com/hanpq/PSLogs/issues/20#issuecomment-6436394878) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. ℹ️ Labeled issue [#20](https://github.com/hanpq/PSLogs/issues/20) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 3. 💪 Opened PR [#21](undefined) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
