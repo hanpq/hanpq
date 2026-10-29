@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/hanpq/PSLogs/pull/28) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
-2. ℹ️ Labeled PR [#32](https://github.com/hanpq/PSLogs/pull/32) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
-3. ℹ️ Labeled PR [#33](https://github.com/hanpq/PSLogs/pull/33) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+1. 🎉 Merged PR [#33](https://github.com/hanpq/PSLogs/pull/33) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🎉 Merged PR [#28](https://github.com/hanpq/PSLogs/pull/28) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+3. ℹ️ Labeled PR [#32](https://github.com/hanpq/PSLogs/pull/32) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 <!--END_SECTION:activity-->
 
 </details>
