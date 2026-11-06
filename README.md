@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/hanpq/PSMQTT/pull/9#issuecomment-6681567734) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-2. ℹ️ Labeled PR [#9](https://github.com/hanpq/PSMQTT/pull/9) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
-3. ℹ️ Unlabeled PR [#9](https://github.com/hanpq/PSMQTT/pull/9) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
+1. 🎉 Merged PR [#23](https://github.com/hanpq/PSImmich/pull/23) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 💪 Opened PR [#23](https://github.com/hanpq/PSImmich/pull/23) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 🗣 Commented on [#9](https://github.com/hanpq/PSMQTT/pull/9#issuecomment-6681567734) in [hanpq/PSMQTT](https://github.com/hanpq/PSMQTT)
 <!--END_SECTION:activity-->
 
 </details>
