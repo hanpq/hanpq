@@ -37,10 +37,6 @@
 ### Languages
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hanpq&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=hanpq&hide_title=true&langs_count=4&theme=dark_github)
 
-### Other
-
-Thanks to [Thanks to codeSTACKr for tips regarding github profile file setup][codeSTACKr]
-
 [website]: https://getps.dev
 [blog]: https://getps.dev/blog
 [twitter]: https://https://twitter.com/PalmquistHannes
