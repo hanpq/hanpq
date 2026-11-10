@@ -45,7 +45,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img alt="Hanpq's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hanpq&show_icons=true&hide_border=true&text_color=c97849&bg_color=18191a&title_color=f0f1f2" />
+  [![Hanpq's GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 </details>
 
