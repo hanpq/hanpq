@@ -10,11 +10,11 @@
 ### Recent blog posts on getps.dev
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding How BIMI Enhances Email Trust and Brand Visibility](https://getps.dev/blog/email-security-bimi)
-- [Understanding How DANE Enhances TLS Security with DNSSEC](https://getps.dev/blog/email-security-dane)
-- [Understanding How TLS-RPT Enhances Email Security Through Reporting](https://getps.dev/blog/email-security-tls-rpt)
-- [Understanding How MTA-STS Enhances Email Security](https://getps.dev/blog/email-security-mta-sts)
-- [Understanding How DMARC Enhances Email Security Through Authentication and Reporting](https://getps.dev/blog/email-security-dmarc)
+- [Migrating Exchange Online Cross-Tenant Federation from EWS to Microsoft Graph](https://www.getps.dev/blog/exchange-online-cross-tenant-federation-ews-to-graph)
+- [How BIMI Boosts Email Trust and Brand Visibility](https://www.getps.dev/blog/email-security-bimi)
+- [Understanding How DANE Enhances TLS Security with DNSSEC](https://www.getps.dev/blog/email-security-dane)
+- [How TLS-RPT Enhances Email Security](https://www.getps.dev/blog/email-security-tls-rpt)
+- [Understanding How MTA-STS Enhances Email Security](https://www.getps.dev/blog/email-security-mta-sts)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][blog]
