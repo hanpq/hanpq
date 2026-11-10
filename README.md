@@ -35,9 +35,9 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/hanpq/PSDev/pull/13) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-2. 💪 Opened PR [#13](https://github.com/hanpq/PSDev/pull/13) in [hanpq/PSDev](https://github.com/hanpq/PSDev)
-3. 🚀 Published release [v1.113.0](https://github.com/hanpq/PSImmich/releases/tag/v1.113.0) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🗣 Commented on [#3](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/3#issuecomment-6765178183) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
+2. 🗣 Commented on [#5](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/5#issuecomment-6765446931) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
+3. ℹ️ Unlabeled PR [#5](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/5) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
 <!--END_SECTION:activity-->
 
 </details>
