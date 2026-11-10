@@ -24,9 +24,9 @@
 ### Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/3#issuecomment-6765178183) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
-2. 🗣 Commented on [#5](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/5#issuecomment-6765446931) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
-3. ℹ️ Unlabeled PR [#5](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/5) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
+1. 🗣 Commented on [#42](https://github.com/hanpq/PSLogs/pull/42#issuecomment-6767575158) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+2. 🗣 Commented on [#44](https://github.com/hanpq/PSLogs/pull/44#issuecomment-6768165312) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
+3. 🗣 Commented on [#45](https://github.com/hanpq/PSLogs/pull/45#issuecomment-6768271380) in [hanpq/PSLogs](https://github.com/hanpq/PSLogs)
 <!--END_SECTION:activity-->
 
 ### Github stats
