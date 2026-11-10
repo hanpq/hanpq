@@ -45,7 +45,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  [![Hanpq's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hanpq&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hanpq&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
 </details>
 
