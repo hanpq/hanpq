@@ -19,20 +19,9 @@
 
 [more blog posts...][blog]
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Powershell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg" />][website]
-
 <br/>
 
-### Stats
-
-<details>
-  <summary>Recent GitHub Activity</summary>
+### Recent Github Activity
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/3#issuecomment-6765178183) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
@@ -40,19 +29,13 @@
 3. ℹ️ Unlabeled PR [#5](https://github.com/hanpq/PSModuleBuildReleaseTemplate/pull/5) in [hanpq/PSModuleBuildReleaseTemplate](https://github.com/hanpq/PSModuleBuildReleaseTemplate)
 <!--END_SECTION:activity-->
 
-</details>
+### Github stats
 
-<details>
-  <summary>GitHub Stats</summary>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hanpq&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=hanpq&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hanpq&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 
-</details>
-
-<details>
-    <summary>Most used languages in repos</summary>
-    <img alt="Most used languages in repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanpq&layout=compact&text_color=c97849&bg_color=18191a&title_color=f0f1f2" />
-</details>
+### Languages
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hanpq&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=hanpq&hide_title=true&langs_count=4&theme=dark_github)
 
 ### Other
 
