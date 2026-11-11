@@ -24,9 +24,9 @@
 ### Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/hanpq/PSSort/pull/10#issuecomment-6791720813) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
-2. ℹ️ Labeled PR [#10](https://github.com/hanpq/PSSort/pull/10) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
-3. ℹ️ Unlabeled PR [#10](https://github.com/hanpq/PSSort/pull/10) in [hanpq/PSSort](https://github.com/hanpq/PSSort)
+1. 🎉 Merged PR [#38](https://github.com/hanpq/PSImmich/pull/38) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 💪 Opened PR [#38](https://github.com/hanpq/PSImmich/pull/38) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 🎉 Merged PR [#37](https://github.com/hanpq/PSImmich/pull/37) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 ### Github stats
