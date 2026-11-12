@@ -24,9 +24,9 @@
 ### Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#5](https://github.com/hanpq/PSDataSet/pull/5) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
-2. ℹ️ Labeled PR [#5](https://github.com/hanpq/PSDataSet/pull/5) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
-3. 💪 Opened PR [#5](https://github.com/hanpq/PSDataSet/pull/5) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
+1. 🗣 Commented on [#5](https://github.com/hanpq/PSScriptInfo/pull/5#issuecomment-6821380099) in [hanpq/PSScriptInfo](https://github.com/hanpq/PSScriptInfo)
+2. 🗣 Commented on [#5](https://github.com/hanpq/PSDataSet/pull/5#issuecomment-6820992250) in [hanpq/PSDataSet](https://github.com/hanpq/PSDataSet)
+3. 🗣 Commented on [#4](https://github.com/hanpq/PSScriptInfo/pull/4#issuecomment-6821302127) in [hanpq/PSScriptInfo](https://github.com/hanpq/PSScriptInfo)
 <!--END_SECTION:activity-->
 
 ### Github stats
