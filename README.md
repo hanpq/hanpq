@@ -24,9 +24,9 @@
 ### Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/hanpq/PSImmich/pull/38) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-2. 💪 Opened PR [#38](https://github.com/hanpq/PSImmich/pull/38) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
-3. 🎉 Merged PR [#37](https://github.com/hanpq/PSImmich/pull/37) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+1. 🗣 Commented on [#36](https://github.com/hanpq/PSImmich/pull/36#issuecomment-6802509957) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+2. 🎉 Merged PR [#38](https://github.com/hanpq/PSImmich/pull/38) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
+3. 💪 Opened PR [#38](https://github.com/hanpq/PSImmich/pull/38) in [hanpq/PSImmich](https://github.com/hanpq/PSImmich)
 <!--END_SECTION:activity-->
 
 ### Github stats
